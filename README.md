@@ -5,3 +5,5 @@ And it should be triggered by any change
 .. edit
 
 another edit. 
+
+trigger update
