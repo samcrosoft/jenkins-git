@@ -6,4 +6,4 @@ And it should be triggered by any change
 
 another edit. 
 
-trigger update on tuesday.
+trigger update on tuesday (second).
